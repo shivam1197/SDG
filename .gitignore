@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.Python
+*.env
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.python-version
+
+# Jupyter
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Output / generated files
+synthetic_outputs/
+
+# Package / build
+dist/
+build/
+*.egg-info/

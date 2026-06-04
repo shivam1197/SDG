@@ -1,0 +1,5 @@
+column_name,examples
+city,"Delhi, Mumbai, Pune, Bengaluru"
+customer_type,"Retail, Corporate, Student"
+payment_status,"SUCCESS, FAILED, PENDING"
+amount,"100, 200, 500, 1000"
